@@ -31,3 +31,6 @@ Number | ISO | Parameters
 4x | EN ISO 7045H | M3x10
 4x | EN 24035 | M3
 8x | EN 24035 | M4
+
+### References
+* [Faculty of Mechanical Engineering BUT](https://www.fme.vutbr.cz/en)
