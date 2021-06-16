@@ -34,4 +34,5 @@ Number | ISO | Parameters
 8x | EN 24035 | M4
 
 ### References
+* [D435i Spec.](https://www.intelrealsense.com/depth-camera-d435i/)
 * [Faculty of Mechanical Engineering BUT](https://www.fme.vutbr.cz/en)
