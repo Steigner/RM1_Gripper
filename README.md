@@ -6,6 +6,7 @@ Software
 ```
 ```
 Autodesk Inventor Proffesional 2020
+PrusaSlicer 2.3.1
 ```
 ### Example
 ![plot](docs/screens/Gripper_V1.jpg)
