@@ -7,6 +7,19 @@ Software
 Autodesk Inventor Proffesional 2020
 ```
 
+![plot](docs/screens/Gripper_V1.jpg)
+
+### Bill Of Parts 
+* 2ml_syringe
+* extension_1_V2
+* extension_2_V2
+* holder_1_V1
+* holder_2_V1
+* holder_3_V1
+* holder_4_V1
+* Intel-Realsense D435
+* Hex-e sensor
+
 ### Bill Of Materials 
 Number | ISO | Parameters
 ------------ | ------------- | -------------
