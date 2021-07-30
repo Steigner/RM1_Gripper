@@ -25,7 +25,7 @@ Number | ISO | Parameters
 2x | EN ISO 7045H | M3x5
 4x | EN ISO 7045H | M3x14
 4x | EN 24035 | M3
-8x | EN 24035 | M4
+10x | EN 24035 | M4
 
 ### Note
 * Recommended torque for both M3 mounting points is 0.4Nm Intel Realsense D435i.
