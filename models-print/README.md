@@ -1,8 +1,8 @@
 ## Note
 
-Parts marked: 
+Parts marked:
 * **U** - universal
 * **A** - angular
 * **S** - straight
 
-So choose and print your prefered gripper.
+So choose and print your prefered type of gripper.
