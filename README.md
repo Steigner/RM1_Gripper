@@ -8,7 +8,7 @@ Software
 Autodesk Inventor Proffesional 2020
 PrusaSlicer 2.3.1
 ```
-### Example
+### Example -> Archived
 #### Angular Gripper
 ![plot](docs/screens/Gripper_V1.jpg)
 
@@ -18,14 +18,11 @@ PrusaSlicer 2.3.1
 ### Bill Of Materials 
 Number | ISO | Parameters
 ------------ | ------------- | -------------
-4x | DIN EN ISO 4762 | M6x10
+4x | DIN EN ISO 4762 | M6x16
 4x | DIN EN ISO 4762 | M4x16
-4x | DIN EN ISO 4762 | M4x20
 2x | EN ISO 7045H | M4x12
 2x | EN ISO 7045H | M3x5
-4x | EN ISO 7045H | M3x14
-4x | EN 24035 | M3
-10x | EN 24035 | M4
+6x | EN 24035 | M4
 
 ### Note
 * Recommended torque for both M3 mounting points is 0.4Nm Intel Realsense D435i.
