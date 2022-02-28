@@ -5,7 +5,7 @@
 ***
 
 # RoboMedicinae1 - Gripper
-<a href="https://github.com/Steigner/RM1_Gripper/blob/main/README.md"><img alt="License: MIT" src="https://black.readthedocs.io/en/stable/_static/license.svg"></a>
+<a href="https://github.com/Steigner/RM1_Gripper/blob/main/LICENSE"><img alt="License: MIT" src="https://black.readthedocs.io/en/stable/_static/license.svg"></a>
 
 **Open-source, copy and modify what you need!**
 
