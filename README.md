@@ -16,12 +16,10 @@ RM1 is an experimental robotic platform created to automate antigen testing. Thi
 
 + [<=](https://github.com/Steigner/RM1_server) RM1 - Server
 + [<=](https://github.com/Steigner/RM1_ROS) RM1 - ROS         
-+ RM1 - Gripper
++ [<=](https://github.com/Steigner/RM1_Gripper) RM1 - Gripper
 + RM1 - Seg. ANN
 
-```javascript
-Software
-```
+## Software
 ```
 Autodesk Inventor Proffesional 2020
 PrusaSlicer 2.3.1
@@ -36,9 +34,28 @@ Number | ISO | Parameters
 2x | EN ISO 7045H | M3x5
 6x | EN 24035 | M4
 
-### Note
+**Note:**
 * Recommended torque for both M3 mounting points is 0.4Nm Intel Realsense D435i.
 
-### References
+## Screenshots and videos
+
+<p align="center"> <b>Click to full resolution</b> </p>
+
+![Gripper_RG2_A_V1](https://user-images.githubusercontent.com/54715463/155989442-a78e2b5c-190b-4571-a883-336fd8a2ab90.png)
+
+![Gripper_RG2_A_V1_2](https://user-images.githubusercontent.com/54715463/155989454-2ba1a16d-52f4-40c9-807e-27dcd25e3792.png)
+
+![ur3_line_ROS4](https://user-images.githubusercontent.com/54715463/155895009-59160760-a2a1-4902-8dcc-99e4957e6cd5.png)
+
+![test](https://user-images.githubusercontent.com/54715463/155900091-78fa76ad-a566-49d8-b847-1ce7e81e3243.jpg)
+
+![Gripper_RG2_S_V1](https://user-images.githubusercontent.com/54715463/155989463-cbdbb8b7-d0af-4f95-9163-3336e7fb3bd0.png)
+
+## Authors
+
+* Author: Martin Juricek
+* Supervisor: Roman Parak
+
+## References
 * [D435i Spec.](https://www.intelrealsense.com/depth-camera-d435i/)
 * [Faculty of Mechanical Engineering BUT](https://www.fme.vutbr.cz/en)
