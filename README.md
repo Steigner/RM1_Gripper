@@ -17,7 +17,7 @@ RM1 is an experimental robotic platform created to automate antigen testing. Thi
 + [<=](https://github.com/Steigner/RM1_server) RM1 - Server
 + [<=](https://github.com/Steigner/RM1_ROS) RM1 - ROS         
 + [<=](https://github.com/Steigner/RM1_Gripper) RM1 - Gripper
-+ RM1 - Seg. ANN
++ [<=](https://github.com/Steigner/RM1_SegCNN) RM1 - SegCNN
 
 As part of this package, it was necessary to design some parts for 3D printing in order to fit the UR3 end effector, Intel Realsense D435i camera, Optoforce Hex-e sensor, and Optoforce RG2 Gripper. Again, the emphasis was on modularity. A simple rack and thread was designed to handle the entire testing process. All parts were printed on Prusa 3D printers. Within the work both angular and straight attachment for camera mounting was designed, we used **Angular for testing**.
  
