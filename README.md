@@ -48,10 +48,6 @@ Number | ISO | Parameters
 
 ![Gripper_RG2_A_V1_2](https://user-images.githubusercontent.com/54715463/155989454-2ba1a16d-52f4-40c9-807e-27dcd25e3792.png)
 
-![ur3_line_ROS4](https://user-images.githubusercontent.com/54715463/155895009-59160760-a2a1-4902-8dcc-99e4957e6cd5.png)
-
-![test](https://user-images.githubusercontent.com/54715463/155900091-78fa76ad-a566-49d8-b847-1ce7e81e3243.jpg)
-
 ![Gripper_RG2_S_V1](https://user-images.githubusercontent.com/54715463/155989463-cbdbb8b7-d0af-4f95-9163-3336e7fb3bd0.png)
 
 ## Authors
