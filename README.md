@@ -5,7 +5,7 @@
 ***
 
 # RoboMedicinae1 - Gripper
-<a href="https://github.com/Steigner/RM1_Gripper/blob/main/LICENSE"><img alt="License: MIT" src="https://black.readthedocs.io/en/stable/_static/license.svg"></a>
+<a href="https://github.com/Steigner/RM1_Gripper/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/Steigner/RM1_Gripper.svg"></a>
 
 **Open-source, copy and modify what you need!**
 
@@ -56,9 +56,9 @@ Number | ISO | Parameters
 * Supervisor: Roman Parak
 
 ## Citation
-If you want to quote please check the header repository. 
+If you want to cite please check the header repository. 
 
-github.com/Steigner/Robo_Medicinae_I [=>](https://github.com/Steigner/Robo_Medicinae_I) 
+github.com/Steigner/Robo_Medicinae_I [=>](https://github.com/Steigner/Robo_Medicinae_I#citation) 
 
 ## References
 * [D435i Spec.](https://www.intelrealsense.com/depth-camera-d435i/)
