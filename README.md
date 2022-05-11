@@ -49,9 +49,13 @@ Number | ISO | Parameters
 
 <p align="center"> <b>Click to full resolution</b> </p>
 
+<p align="center"> <b>Angular Gripper</b> </p>
+
 ![Gripper_RG2_A_V1](https://user-images.githubusercontent.com/54715463/155989442-a78e2b5c-190b-4571-a883-336fd8a2ab90.png)
 
 ![Gripper_RG2_A_V1_2](https://user-images.githubusercontent.com/54715463/155989454-2ba1a16d-52f4-40c9-807e-27dcd25e3792.png)
+
+<p align="center"> <b>Straight Gripper</b> </p>
 
 ![Gripper_RG2_S_V1](https://user-images.githubusercontent.com/54715463/155989463-cbdbb8b7-d0af-4f95-9163-3336e7fb3bd0.png)
 
